@@ -1,2 +1,4 @@
 # hello-world
-Playing with GitHub
+Playing with GitHub,
+Typing to be able to commit
+
